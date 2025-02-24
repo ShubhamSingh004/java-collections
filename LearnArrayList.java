@@ -60,5 +60,8 @@ class LearnArrayList{
         studentsName.clear();
         System.out.println(studentsName);
 
+
+        // similar functions in linkedList
+
     }
 }
