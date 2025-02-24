@@ -44,7 +44,7 @@ public class LearnSet {
         
         
 
-        // also learn .equals, toString() overrride and hashCode() override
+        // also learn .equals, toString() overrride and hashCode
 
     }
 }
